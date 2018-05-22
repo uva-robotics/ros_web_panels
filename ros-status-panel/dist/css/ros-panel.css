@@ -1,0 +1,10 @@
+.status-panel {
+  display: flex;
+  align-items: left;
+  justify-content: left;
+  flex-direction: column;
+}
+
+.status-icon {
+  width: 50px;
+}

@@ -1,0 +1,12 @@
+<h1>{{ ctrl.panel.topic }}</h1>
+
+<form class="publishForm">
+  <input type="hidden" name="topic" value="{{ctrl.panel.topic}}">
+  <input type="hidden" name="msg_type" value="std_msgs/String">
+
+  <div class="gf-form">
+    <label class="gf-form-label" for="pub" class="">Publish</label>
+    <input class="input-small gf-form-input" name="pub" class=""></input>
+    <input type="submit" value="Submit">
+  </div>
+</form>

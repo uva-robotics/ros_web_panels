@@ -1,0 +1,10 @@
+.msg-panel {
+  display: flex;
+  align-items: left;
+  justify-content: left;
+  flex-direction: column;
+}
+
+.no-style {
+  list-style: none;
+}
