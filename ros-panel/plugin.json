@@ -15,8 +15,8 @@
       "large": "src/img/clock_panel_logo.svg"
     },
     "links": [
-      {"name": "Project site", "url": "https://github.com/grafana/clock-panel"},
-      {"name": "MIT License", "url": "https://github.com/grafana/clock-panel/blob/master/LICENSE"}
+      {"name": "Project site", "url": "https://github.com/uva-robotics/ros_web_panels"},
+      {"name": "MIT License", "url": "https://github.com/uva-robotics/ros_web_panels/blob/master/LICENSE"}
     ],
     "screenshots": [
       {"name": "Showcase", "path": "src/img/screenshot-showcase.png"},
